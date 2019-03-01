@@ -1,0 +1,4 @@
+com\qa\jenkinstests\AParametersTest.class
+com\qa\jenkinstests\CucumberRunnerTest.class
+com\qa\jenkinstests\MainTest.class
+com\qa\jenkinstests\StepDefinition.class
